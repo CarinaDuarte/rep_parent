@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 
-namespace SQLi_1
+namespace SQLi_2
 {
     class Program
     {
